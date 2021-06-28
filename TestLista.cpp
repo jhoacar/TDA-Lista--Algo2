@@ -11,7 +11,7 @@ void print_lista(Lista<string> lista){
     cout<<endl;
 }
 
-void test(){
+void test_lista(){
 
     cout<<"TEST : "<<endl;
 
@@ -92,9 +92,4 @@ void test(){
 
     cout<<"Presione una tecla para continuar...";
     cin.get();
-}
-
-int main(int argc, char *argv[]){
-
-    test();
 }

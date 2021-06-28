@@ -1,0 +1,252 @@
+Universidad Nacional de Avellaneda;
+100;
+Caligrafo publico
+Ciencia Politica
+Ciencias Ambientales
+Canto
+Chef Internacional
+Diseno Asistido
+Diseno de Animaciones y Dibujos Animados
+Diseno de EspectAculos
+Diseno de Historietas
+Diseno de Imagen Empresaria
+Diseno de Imagen y Sonido
+Diseno de Indumentaria y Textil
+Diseno de Indumentaria con Tecnologia Digital aplicada
+Diseno de Informacion
+Diseno de Interiores - Decorador de Interiores
+Diseno de Interiores y Equipamiento
+Diseno de Joyas
+Diseno de Mobiliario
+Diseno de Modas
+Diseno de Packaging
+Diseno de Parques y Jardines
+Diseno de Productos, Orientacion Indumentaria
+Edicion
+Enfermeria
+Enfermero Universitario
+Farmacia
+Filosofia
+Ingenieria Civil
+Ingenieria de Alimentos
+Ingenieria Electricista
+Ingenieria Electronica
+Ingenieria en Agrimensura
+Ingenieria en Informatica
+Ingenieria en Alimentos
+Ingenieria en Automatizacion y Control Industrial
+Ingenieria en Ecologia
+Ingenieria en Materiales
+Ingenieria en Seguridad e Higiene en el Trabajo
+Ingenieria Zootecnista
+Ingenieria en Ecologia
+Ingenieria Mecanica
+Ingenieria Naval y MecAnica
+Ingenieria Quimica
+Instrumentacion Quirurgica
+Relaciones Laborales - Recursos Humanos
+Relaciones del Trabajo 
+Salud Ambiental
+Seguridad Ciudadana
+Salud Ambiental
+Seguridad Vial y Transporte
+Sistemas de Informacion de las Organizaciones
+Sociologia
+Tecnologia Educativa
+Teatro
+Tecnicatura Universitaria en Web
+Tecnologia en Alimentos
+Terapia Ocupacional
+Trabajo Social
+Traductorado Publico
+Tripulante de Cabina de Pasajeros
+Turismo
+Vestuarista
+Visitador Medico - Agente de Propaganda medica
+Web
+Yoga;
+!Universidad Nacional del Centro de la Provincia de Buenos Aires;
+110;
+Abogacia
+Accidentologia Vial
+Acompanante Terapeutico
+Actividad fisica y deportiva
+Actor de Teatro, cine y TV
+Actor y Director de Artes Escenicas
+Actuacion
+Actuario
+Acuicultura
+Administracion
+Administracion Aduanera - Despachante de Aduana
+Administracion Aeronautica
+Administracion Agropecuaria
+Administracion Ambiental
+Administracion Bancaria
+Administracion de Agencias de Viajes y Turismo
+Agente de Viajes y Turismo
+Administracion de Bienes Culturales
+Administracion de Recursos Humanos
+Administracion de Salud
+Administracion y Sistemas
+Artes Electronicas
+Administracion de Servicios de Salud
+Administracion Hotelera
+Agrimensura
+Agronomia;
+!Universidad Nacional Tres de Febrero;
+120;
+Analisis de sistemas
+Antropologia
+Archivologia
+Arquitectura
+Arte Dramatico (Teatro)
+Artes Audiovisuales
+Artes Electronicas
+Artes Plasticas
+Artes y Ciencias del Teatro
+Asesor - Asesoramiento en Imagen
+Asesor en Imagen Corporativa
+Asistente en Administracion Hotelera
+Asistente en Ceremonial y Organizacion
+Astronomia
+Aviacion
+Azafata
+Biodiversidad
+BioinformAtica
+Bioingenieria
+Bellas Artes
+Bibliotecologia
+Bibliotecologia y Ciencias de la Informacion
+BioinformAtica
+Bioingenieria
+Bioquimica
+Biotecnologia
+Bioterio
+Bromatologia;
+!Universidad Nacional de Rio Cuarto;
+230;
+Ciencia y Tecnologia de los Alimentos
+Ciencias Ambientales
+Ciencias del Gobierno
+Composicion con Medios Electroacusticos
+Creatividad Educativa
+Criminalistica
+Ciencias Antropologicas
+Ciencias biologicas
+Ciencias de la Atmosfera
+Ciencias de la Computacion
+Ciencias de la Comunicacion
+Ciencias de la Educacion
+Ciencias Fisicas
+Ciencias Geologicas
+Ciencias MatemAticas
+Ciencias Politicas
+Ciencias Quimicas
+Ciencias Veterinarias
+Cine - Direccion CinematogrAfica
+Cocinero
+Comercio Internacional
+Comisarios de a Bordo y Azafata
+Compaginacion CinematogrAfica
+Comunicacion Publicitaria
+Contador Publico
+Cosmetologia, Cosmiatria y Estetica
+Counseling
+Critica CinematogrAfica
+Danza
+Dermatocosmiatria
+Despachante de Aeronaves
+Diagnostico por ImAgenes
+Dibujante asistido por Computadora
+Diseno Asistido
+Direccion de cine
+Direccion de Fotografia
+Direccion Teatral;
+!Universidad Nacional del Litoral;
+200;
+Diseno de Sitios Web
+Diseno del Espacio Escenico
+Diseno del Paisaje
+Diseno en Animacion y Efectos Visuales
+Diseno en Comunicacion Visual
+Diseno EscenogrAfico
+Diseno FotogrAfico
+Diseno GrAfico
+Diseno GrAfico Multimedial
+Diseno GrAfico Publicitario
+Diseno Industrial
+Diseno InformAtico Editorial
+Diseno Multimedial
+Diseno Textil e Indumentaria
+Diseno Web
+Diseno y Programacion de Simuladores Virtuales
+Ecologia Urbana
+Enologia y Viticultura
+Estadistica
+Estudios Orientales
+Ecologia
+Economia y Administracion de la Pequena y Mediana Empresa
+Economia
+Economia y Administracion Agraria;
+!Universidad Nacional de Santiago del Estero;
+100;
+Floricultura
+Fonoaudiologia
+Fotografia
+Genetica
+Gastronomia
+Geografia
+Gestion Cultural y Emprendimientos Culturales
+Gestion de Agroalimentos
+Gestion y Administracion Municipal
+Grafologia
+Guionista cinematogrAfico
+Guionista CinematogrAfico
+Guionista de Radio y TV
+Hemoterapia
+Historia
+Humanistica y Ceremonial
+Iluminacion CinematogrAfica
+Iluminacion y CAmara CinematogrAficas;
+!Universidad Nacional de Lanus;
+250;
+Jardineria
+Kinesiologia y Fisiatria
+Letras
+Locutor Integral de Radio y TV
+Manejo de Areas Protegidas
+Martillero y Corredor Publico Rural
+Medicina
+Meteorologo
+Musicoterapia
+Nutricion
+Observador Meteorologico
+Obstetricia
+Oceanografia
+Odontologia
+Operador Tecnico de Estudio y Planta Transmisora de Radiodifusion
+optico Tecnico
+Organizacion de Eventos
+Oceanografia
+Organizacion de la Produccion
+Produccion Vegetal OrgAnica
+Produccion y Direccion de Radio y TV
+Produccion de Medios Audiovisuales, Eventos y EspectAculos
+Produccion y Direccion de Television, Cine y Radio
+Profesorado en Artes PlAsticas
+Profesorado en Ciencias Economicas
+Profesorado en Comunicacion Social
+Profesorado en Portugues
+Programador de Sistemas
+Psicologia  
+Psicologia Social
+Psicomotricidad
+Psicopedagogia
+Publicidad
+Paleontologia
+Periodismo y Comunicacion
+Piloto Privado y Comercial de Avion
+Podologo Universitario
+Produccion de BioimAgenes
+Produccion Vegetal
+Psicomotricidad
