@@ -319,7 +319,11 @@ Lista<Dato>* Lista<Dato>::operator+(Lista &lista){
 
 template <class Dato>
 void Lista<Dato>::sort(int (*compare)(const Dato a, const Dato b)){
-    *this=*quick_sort(*this,compare);
+    Lista *sorted_list = selection_sort(*this,compare);
+    //selection_sort
+    //quick_sort (Desbordamiento de memoria)
+    *this=*sorted_list;
+    delete sorted_list;
 }
 
 template <class Dato>

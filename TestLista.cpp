@@ -38,12 +38,12 @@ void test_lista(){
     B.print(print_data);
     cout<<endl<<"Union:"<<endl;
     A+=B;
-    Lista<string> *C = A.get_union(B);
+    //Lista<string> *C = A.get_union(B);
     A.print(print_data);
     cout<<endl;
-    C->print(print_data);
-    cout<<endl<<endl;
-    delete C;
+    //C->print(print_data);
+    //cout<<endl<<endl;
+    //delete C;
     
     cout<<"Test (Reverse): "<<endl;
     A.print(print_data);
