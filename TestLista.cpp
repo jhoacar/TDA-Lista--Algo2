@@ -43,6 +43,7 @@ void test_lista(){
     cout<<endl;
     C->print(print_data);
     cout<<endl<<endl;
+    delete C;
     
     cout<<"Test (Reverse): "<<endl;
     A.print(print_data);
@@ -53,7 +54,8 @@ void test_lista(){
     cout<<endl;
     D->print(print_data);
     cout<<endl<<endl;
-    
+    delete D;
+
     cout<<"Test (Merge): "<<endl;
     A.print(print_data);
     cout<<endl;
@@ -64,19 +66,20 @@ void test_lista(){
 
     cout<<endl<<endl;
 
+    
     cout<<"Test (Erase): "<<endl;
-    C->print(print_data);
+    B.print(print_data);
     cout<<endl<<"Erase:"<<endl;
-    C->erase_data("(3)",comparacion);
-    C->print(print_data);
+    B.erase_data("(5)",comparacion);
+    B.print(print_data);
     
     cout<<endl<<endl;
 
     cout<<"Test (Erase All Occurrences): "<<endl;
-    C->print(print_data);
+    A.print(print_data);
     cout<<endl<<"Erase All Ocurrences:"<<endl;
-    C->erase_all_occurrences("(6)",comparacion);
-    C->print(print_data);
+    A.erase_all_occurrences("(5)",comparacion);
+    A.print(print_data);
     
     cout<<endl<<endl;
 
@@ -85,11 +88,15 @@ void test_lista(){
     cout<<endl;
     B.print(print_data);
     cout<<endl<<"Difference:"<<endl;
-    C = A.get_difference(B,comparacion);
-    C->print(print_data);
+    Lista<string> *E = A.get_difference(B,comparacion);
+    E->print(print_data);
 
     cout<<endl<<endl;
 
     cout<<"Presione una tecla para continuar...";
     cin.get();
+}
+
+int main(){
+    test_lista();
 }

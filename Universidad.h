@@ -50,7 +50,7 @@ class Buscador_universidades
             Lista<Universidad *>* recomendaciones = new Lista<Universidad *>;
             for(int i = 0 ; i < universidades->get_size(); i++){
                 
-                if( (*universidades)[i]->obtener_ranking() >= ranking_minimo && (*universidades)[i]->exist_any(*vocaciones) )
+                if( (*universidades)[i]->obtener_ranking() >=(unsigned int) ranking_minimo && (*universidades)[i]->exist_any(*vocaciones) )
                     recomendaciones->add((*universidades)[i]);
             }
             return recomendaciones;

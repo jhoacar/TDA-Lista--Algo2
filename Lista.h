@@ -324,13 +324,14 @@ void Lista<Dato>::sort(int (*compare)(const Dato a, const Dato b)){
 
 template <class Dato>
 void Lista<Dato>::clean(){
-  Lista *nueva = new Lista();
+  Lista nueva;
   for( int i=0 ; i< (int) size; i++){
     Dato dato = (*this)[i];
     if( i< (int) size && dato != (*this)[i+1]) 
-      nueva->add(dato);
+      nueva.add(dato);
   }
-  (*this) = *nueva;
+  (*this) = nueva;
+
 }
 
 template <class Dato>
@@ -364,10 +365,10 @@ Lista<Dato>* Lista<Dato>::get_union(const Lista &lista){
 
 template <class Dato>
 void Lista<Dato>::reverse(){
-  Lista *nueva = new Lista();
+  Lista nueva;
   for(int i = (int)size - 1 ; i>=0 ; i-- )
-    nueva->add((*this)[i]);
-  (*this) = *nueva;
+    nueva.add((*this)[i]);
+  (*this) = nueva;
 }
 
 template <class Dato>
