@@ -3,8 +3,8 @@
 
 #include "Lista.h"
 #include <string>
-
-using std::string;
+#include <iostream>
+using namespace std;
 
 class Universidad
 {
@@ -32,8 +32,8 @@ class Universidad
             return carreras;
         }
         bool exist_any(Lista<string> carreras)
-        {
-           return this->carreras->exist_any(carreras,comparacion);
+        { 
+           return this->carreras->exist_any(carreras,comparacion);;
         }
 };
 //Implementar el método recomendar_universidades de la clase Buscador_universidades:
@@ -51,7 +51,9 @@ class Buscador_universidades
             for(int i = 0 ; i < universidades->get_size(); i++){
                 
                 if( (*universidades)[i]->obtener_ranking() >=(unsigned int) ranking_minimo && (*universidades)[i]->exist_any(*vocaciones) )
+                {
                     recomendaciones->add((*universidades)[i]);
+                }
             }
             return recomendaciones;
         }

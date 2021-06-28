@@ -12,12 +12,12 @@ const int DONT_FOUND = -1;
 //Post: Compara y devuelve SMALLER si A es menor que B, BIGGER si A es mayor que B y EQUALS caso contrario
 template<class Dato>
 int comparacion(Dato A, Dato B){
-    if(A<B)
-        return SMALLER;
+    if(A==B)
+        return EQUALS;
     else if(A>B)
         return BIGGER;
     else
-        return EQUALS;
+        return SMALLER;
 }
 
 template <class Dato>
@@ -434,7 +434,7 @@ template <class Dato>
 bool Lista<Dato>::exist_any(const Lista<Dato> &lista , int(*compare)(Dato A, Dato B)){
   bool found = false;
   int i = 0;
-  while(i< lista.get_size()){
+  while(i< lista.get_size() && !found){
     found = exists(lista[i],compare);
     i++;
   }
